@@ -1,3 +1,7 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://github.com/PandeyArpita/PandeyArpita/blob/main/MEARPITA.png" /></a></p>
+
+<br />
+
 **About Me**
 
 - 👋 Hi, I’m @PandeyArpita
