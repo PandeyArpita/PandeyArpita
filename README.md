@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on other MySQL and PHP projects.
 - 📫 How to reach me. You can reach my on linkedin
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<PandeyArpita>&theme=<THEME_NAME>" />
+
 <!---
 PandeyArpita/PandeyArpita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
